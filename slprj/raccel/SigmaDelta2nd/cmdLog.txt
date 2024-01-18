@@ -1,0 +1,5 @@
+The argument '-tgtconn_server_info_file' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument 'C:\Users\Utente\AppData\Local\Temp\tgtconnp1716ffb0_59f8_4761_a667_b1e6aa6345c5.info' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '-tgtconn_port' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '0' passed to rtiostream_tcpip is not valid and will be ignored.
+Firewall Rule Add failed: 80070057
